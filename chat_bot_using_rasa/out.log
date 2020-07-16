@@ -1,0 +1,8 @@
+2020-07-15 11:03:04,125 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-07-15 11:03:26,931 [INFO ]  Rasa server is up and running.
+2020-07-15 11:06:18,792 [ERROR]  The model predicted the custom action 'action_find_and_show_time_zone', but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration via the --endpoints flag. https://rasa.com/docs/rasa/core/actions
+2020-07-15 11:06:18,798 [ERROR]  Encountered an exception while running action 'action_find_and_show_time_zone'. Bot will continue, but the actions events are lost. Please check the logs of your action server for more information.
+2020-07-15 11:06:34,509 [ERROR]  The model predicted the custom action 'action_find_and_show_time_zone', but you didn't configure an endpoint to run this custom action. Please take a look at the docs and set an endpoint configuration via the --endpoints flag. https://rasa.com/docs/rasa/core/actions
+2020-07-15 11:06:34,605 [ERROR]  Encountered an exception while running action 'action_find_and_show_time_zone'. Bot will continue, but the actions events are lost. Please check the logs of your action server for more information.
+2020-07-15 11:07:23,356 [INFO ]  Starting Rasa server on http://localhost:5005
+2020-07-15 11:07:49,374 [INFO ]  Rasa server is up and running.
